@@ -1,0 +1,4 @@
+#learning backend
+
+Hello, i am learning backend in javascript
+-[Model link](https://www.youtube.com/redirect?event=video_description&redir_token=QUM4Zm9rUVc3QXBHQ29leHgzZklmZVJvdlJDa3xBR3JiS2FsZWU1QU44T0VWQm10TTV4MVBCMldEUXphNjh1T0w0NXZseXVURjNNc3ZGUnhKb1ZZM01HdUQtSE5aLXRyVWVKak4zZ0JQWTlCdklqM2JSVTdiLUR5a0hqQlFZOXlq&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
