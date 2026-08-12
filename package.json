@@ -2,14 +2,13 @@
   "name": "chai-backend2",
   "version": "1.0.0",
   "description": "learning backend",
-  "types": "module",
+  "type": "module",
   "keywords": [
     "javascript",
     "backend"
   ],
   "license": "ISC",
   "author": "Gaurav",
-  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
